@@ -1,4 +1,4 @@
-# Date Range Picker
+# Date Range Picker + Tailwind + Dayjs
 
 ![Improvely.com](https://i.imgur.com/UTRlaar.png)
 
